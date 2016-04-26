@@ -1,0 +1,1 @@
+mono ./testrunner/NUnit.Console.3.0.1/tools/nunit3-console.exe ./CITutorialProject.Tests/bin/Debug/CITutorialProject.Tests.dll
