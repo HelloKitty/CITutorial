@@ -21,7 +21,7 @@ namespace CITutorialProject
 		public int Add()
 		{
 			//This code purposefully incorrect
-			return IntOne - IntTwo;
+			return IntOne + IntTwo;
 		}
 	}
 }
