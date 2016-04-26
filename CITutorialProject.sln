@@ -5,11 +5,11 @@ VisualStudioVersion = 14.0.25029.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CITutorialProject", "src\CITutorialProject\CITutorialProject.csproj", "{5ECEFCC1-7AFC-4004-99FC-0B8E20751A9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CITutorialProject.Tests", "tests\CITutorialProject.Tests\CITutorialProject.Tests.csproj", "{AC9428C8-1B7E-4A51-8158-1368F3DA0814}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8FD70EC6-D824-4CA1-ACF0-5207879423DF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{BBCC7EB9-A2AD-4F84-A68F-A64AFDB2922A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CITutorialProject.Tests", "tests\CITutorialProject.Tests\CITutorialProject.Tests.csproj", "{AC9428C8-1B7E-4A51-8158-1368F3DA0814}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
